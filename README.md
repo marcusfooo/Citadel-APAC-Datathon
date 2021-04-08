@@ -14,4 +14,4 @@ Our Approach:
 9. Tune hyperparameters on val set
 10. Finally, plot Pnl curve based on our trading model + risk layer model and compare with a random prediction benchmark
 
-*Raw Data not included
+*Raw Data not included*
