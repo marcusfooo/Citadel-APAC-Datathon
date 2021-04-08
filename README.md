@@ -2,6 +2,10 @@
 
 My team's submission for Citadel 2021 APAC Datathon.
 
+Team Members:
+1. Marcus Foo
+2. Wonho of NTU (ys)
+
 Our Approach:
 1. Append important team and player features to each row for each match
 2. Classify -1,0,+1 based on home team losing, drawing and winning
